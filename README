@@ -1,0 +1,6 @@
+// Research code for paper  
+// "Methods for the Joint Meta-Analysis of Multiple Tests" 
+// TA Trikalinos, DC Hoaglin, KM Small, N Terrin, CH Schmid
+
+// Normal approximation models (see paper appendix) in Stata 
+// Exact likelihood models in R/JAGS
